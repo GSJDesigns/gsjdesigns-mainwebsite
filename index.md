@@ -1,13 +1,12 @@
 ---
-title: Home
-header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+title: GSJ Designs
+header: GSJ Designs
 menus:
   main:
     title: Home
     weight: 1
 layout: home
 ---
+From the heart of Staffordshire, we develop and deploy eccentric, responsive and cost-friendly websites. We offer a suite of complimentary offerings ranging from email hosting to long-term support.
 
-Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+Below, you can find a selection of our services. If you’d like to get in touch to discuss your requirements, reach out to us.
