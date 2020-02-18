@@ -1,6 +1,6 @@
 ---
 title: GSJ Designs
-header: GSJ Designs
+header: Web Solutions Staffordshire
 menus:
   main:
     title: Home
