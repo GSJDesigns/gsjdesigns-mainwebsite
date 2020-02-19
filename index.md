@@ -1,5 +1,5 @@
 ---
-title: GSJ Designs
+title: Homepage
 header: Web Solutions Staffordshire
 menus:
   main:
