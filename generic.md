@@ -1,5 +1,5 @@
 ---
-title: Ipsum Veroeros
+title: Portfolio
 img_src: images/pic13.jpg
 menus:
   main:
