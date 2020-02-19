@@ -1,5 +1,5 @@
 ---
-title: Consequat Dolor
+title: Who We Are
 img_src: images/pic13.jpg
 menus:
   main:
