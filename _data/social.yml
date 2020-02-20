@@ -1,6 +1,8 @@
 enabled: true
 title: Follow
 follow_section:
+  - icon: fa-facebook
+    title: Facebook
   - icon: fa-envelope-o
     link_url: '#'
     title: Email
