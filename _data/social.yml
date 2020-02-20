@@ -3,8 +3,10 @@ title: Follow
 follow_section:
   - icon: fa-facebook
     title: Facebook
+    link_url: 'https://www.facebook.co.uk'
   - icon: fa-envelope-o
-    link_url: '#'
+    link_url: 'https://www.gsjdesigns.co.uk/veroeros/'
     title: Email
   - icon: fa-phone
     title: Phone
+    link_url: '#'
