@@ -1,6 +1,6 @@
 ---
 title: Web Development
-home_style: style2
+home_style: style4
 home_img: /images/technology-1283624_1280.jpg
 date: 2020-02-23T16:02:27.137Z
 menus:
