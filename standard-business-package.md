@@ -2,7 +2,7 @@
 title: Standard Business Package
 layout: page
 ---
-## What’s Included in Your Website Design Package for just£199.00 +vat.
+## What’s Included in Your Website Design Package for just £199.00 +vat.
 
 * Quality website design, designed to your requirements.
 * 3 web pages to promote your business.
