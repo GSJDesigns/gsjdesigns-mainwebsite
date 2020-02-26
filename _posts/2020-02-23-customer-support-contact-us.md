@@ -9,4 +9,4 @@ menus:
     title: Customer Support Contact Us
 layout: page
 ---
-This is the customer support, contact us.
+If you require support please email support@gsjdesigns.co.uk or raise a support ticket *here.*
