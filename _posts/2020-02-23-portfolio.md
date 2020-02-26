@@ -9,9 +9,7 @@ menus:
     title: ''
 layout: page
 ---
-
-
-Portfolio
+Here are some of our sites that we have deployed.
 
 ![](/images/ampersand.png)
 
