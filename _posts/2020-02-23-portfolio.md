@@ -9,4 +9,10 @@ menus:
     title: ''
 layout: page
 ---
-This is the portfolio page
+Portfolio
+
+![](/images/ampersand.png)
+
+<br>
+
+![](/images/archtetype.png)
