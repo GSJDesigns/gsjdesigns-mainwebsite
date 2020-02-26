@@ -2,7 +2,7 @@
 title: Business Essentials Plus
 layout: page
 ---
-## What’s Included in Your Website Design Package for just £199.00.
+## What’s Included in Your Website Design Package for just £399.00.
 
 * Quality website design, designed to your requirements.
 * 5 web pages to promote your business.
