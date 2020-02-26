@@ -8,4 +8,4 @@ menus:
     title: Email Hosting
 layout: page
 ---
-This is the email hosting page
+![](/images/emailpackage.png)
