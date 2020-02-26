@@ -8,7 +8,7 @@ menus:
     title: Email Hosting
 layout: page
 ---
-Email Hosting
+
 
 We are able to supply your company with email accounts with your custom domain at a reasonable price. The price for this would be £30 a year. 
 
