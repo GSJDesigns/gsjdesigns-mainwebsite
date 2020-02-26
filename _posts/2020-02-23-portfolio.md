@@ -16,3 +16,11 @@ Portfolio
 <br>
 
 ![](/images/archtetype.png)
+
+<br>
+
+![](/images/azimuth.png)
+
+<br>
+
+![](/images/construct.png)
